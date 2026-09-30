@@ -60,4 +60,4 @@ I enjoy transforming messy data into meaningful solutions, whether it’s throug
 
 ---
 
-🔭 *Let’s build solutions that matter — one line of code at a time.*
+🔭 *Let’s build solutions that matter, one line of code at a time.*
