@@ -4,7 +4,7 @@
 
 I build smart, data-driven systems that blend **maps**, **code**, and **insight**.  
 Currently diving deep into **AI**, **IoT**, and **full-stack development** with a focus on solving real-world problems.  
-I enjoy transforming messy data into meaningful solutions — whether it’s through dashboards, machine learning, or smart devices.
+I enjoy transforming messy data into meaningful solutions, whether it’s through dashboards, machine learning, or smart devices.
 
 - 🏠 Nairobi, Kenya  
 - 🎓 MSc Computer Science | BSc Geospatial Engineering  
