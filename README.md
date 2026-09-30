@@ -1,8 +1,8 @@
 # 👋 Hey there, I'm Oscar Muchiri
 
-## 🧠 Software Developer | 🎯 Data Analyst | 🌍 Geospatial Engineer | 📡 IoT Enthusiast
+## Computer Scientist | Machine Learning • Software Engineering • Geospatial Systems
 
-I build smart, data-driven systems that blend **maps**, **code**, and **insight**.  
+I build intelligent, data-driven systems using machine learning, software engineering and geospatial technology. 
 Currently diving deep into **AI**, **IoT**, and **full-stack development** with a focus on solving real-world problems.  
 I enjoy transforming messy data into meaningful solutions, whether it’s through dashboards, machine learning, or smart devices.
 
