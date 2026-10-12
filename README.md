@@ -35,7 +35,7 @@ Hybrid machine-learning framework for forecasting 20-trading-day XAU/USD trend d
 Computer-vision system for detecting potholes in road imagery using YOLOv8 and a deployed Streamlit inference interface.
 
 **Highlights:** 0.822 mAP50 · 0.535 mAP50–95  
-[Live Demo](https://road-damage-detection-yolov8-5zpqzf4ayqnlnhhh5bvnf9.streamlit.app/) · [Source Code](https://github.com/OscarMuchiri/road-damage-detection-yolov8)
+[Live Demo](https://road-damage-detection-yolov8-5zpqzf4ayqnlnhh5bvnf9.streamlit.app/) · [Source Code](https://github.com/OscarMuchiri/road-damage-detection-yolov8)
 
 ---
 
