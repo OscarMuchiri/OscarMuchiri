@@ -21,34 +21,6 @@ I build intelligent, data-driven systems that turn complex information into usef
 
 ---
 
-## Featured Projects
-
-### [Gold Trend Forecasting](https://github.com/OscarMuchiri/Gold-Trend-Forecasting-ML)
-Hybrid machine-learning framework for forecasting 20-trading-day XAU/USD trend direction using technical indicators and time-series-aware validation.
-
-**Highlights:** 66.81% accuracy · 76.41% F1-score · 61.71% ROC-AUC  
-[Live Demo](https://gold-trend-forecasting-ml-qb5rdxcjgm683bjdt9cjmu.streamlit.app/) · [Source Code](https://github.com/OscarMuchiri/Gold-Trend-Forecasting-ML)
-
----
-
-### [Road Damage Detection with YOLOv8](https://github.com/OscarMuchiri/road-damage-detection-yolov8)
-Computer-vision system for detecting potholes in road imagery using YOLOv8 and a deployed Streamlit inference interface.
-
-**Highlights:** 0.822 mAP50 · 0.535 mAP50–95  
-[Live Demo](https://road-damage-detection-yolov8-5zpqzf4ayqnlnhh5bvnf9.streamlit.app/) · [Source Code](https://github.com/OscarMuchiri/road-damage-detection-yolov8)
-
----
-
-### [Car Sales BI Dashboard](https://github.com/OscarMuchiri/Car-sales-Bi-Dashboard)
-Interactive Power BI dashboard for analysing sales, revenue, pricing, fuel efficiency, resale value and customer segments, supported by a reproducible Python data-preparation workflow.
-
----
-
-### [Home Security System](https://github.com/OscarMuchiri/Home-Security-System)
-Raspberry Pi edge-AI security prototype combining PIR sensing, TensorFlow Lite object detection, GPIO alarms, Telegram notifications and event logging.
-
----
-
 ## Technology Stack
 
 ### Programming & Data
