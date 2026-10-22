@@ -11,16 +11,6 @@ I build intelligent, data-driven systems that turn complex information into usef
 
 ---
 
-## Focus Areas
-
-- **Machine Learning & AI** — forecasting, classification, computer vision and model evaluation
-- **Software Engineering** — Python, TypeScript, Next.js and deployable applications
-- **Geospatial Systems** — GIS, spatial analysis, mapping and location-aware technology
-- **Data & Business Intelligence** — pandas, analytics, dashboards and Power BI
-- **IoT & Edge AI** — Raspberry Pi, TensorFlow Lite and event-driven systems
-
----
-
 ## Technology Stack
 
 ### Programming & Data
@@ -53,24 +43,7 @@ I build intelligent, data-driven systems that turn complex information into usef
 
 ---
 
-## Portfolio
-
-My selected work is presented at:
-
-### [oscar-muchiri-portfolio.vercel.app](https://oscar-muchiri-portfolio.vercel.app)
-
-The portfolio brings together my work in **machine learning, computer vision, software engineering, business intelligence, IoT and geospatial systems**.
-
----
-
-## Next Direction
-
-I am continuing to build projects at the intersection of **software engineering and geospatial technology**, including a full-stack infrastructure asset-management platform using web mapping and spatial databases.
-
----
-
 ### Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=vercel&logoColor=000)](https://oscar-muchiri-portfolio.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OscarMuchiri)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oscarmuchiri9@gmail.com)
