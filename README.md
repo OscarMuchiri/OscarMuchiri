@@ -1,4 +1,4 @@
-# Oscar Muchiri
+# Hi, I’m Oscar Muchiri 👋
 
 ### Computer Scientist | Machine Learning • Software Engineering • Geospatial Systems
 
