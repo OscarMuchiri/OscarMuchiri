@@ -1,4 +1,4 @@
-# Hi, I’m Oscar Muchiri <img src="https://raw.githubusercontent.com/OscarMuchiri/OscarMuchiri/main/assets/waving-hand.svg" width="36" alt="Animated waving hand" />
+# Hi, I’m Oscar <img src="https://raw.githubusercontent.com/OscarMuchiri/OscarMuchiri/main/assets/waving-hand.svg" width="36" alt="Animated waving hand" />
 
 ### Computer Scientist | Machine Learning • Software Engineering • Geospatial Systems
 
