@@ -1,6 +1,6 @@
 # Hi, I’m Oscar <img src="https://raw.githubusercontent.com/OscarMuchiri/OscarMuchiri/main/assets/waving-hand.svg" width="36" alt="Animated waving hand" />
 
-### Computer Scientist | Machine Learning • Software Engineering • Geospatial Systems
+### Computer Scientist | Machine Learning • Software Engineering • Geospatial Engineering
 
 I build intelligent, data-driven systems that turn complex information into useful, deployable products. My background combines **Computer Science** with **Geospatial Engineering**, giving me a practical perspective across machine learning, software, data and location-based technology.
 
